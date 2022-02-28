@@ -1,6 +1,6 @@
 // get_string and printf with %s
 
-#include <cs50.h>
+//#include <cs50.h>
 #include <stdio.h>
 
 int main(void)
