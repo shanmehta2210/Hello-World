@@ -7,3 +7,4 @@ int main() {
   printf("You have been around for %f years, just living and living\n", World_age);
 }
 /* Many other variables can be made such as int, float, or char */
+// cd "C:\Users\Shrey\Videos\coding\Hello-World\Hello-World\C files" to make files compilable
